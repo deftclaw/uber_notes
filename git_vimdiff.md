@@ -8,7 +8,7 @@ you have at least a little bit of basic vim knowledge (how to move, save, and sw
 you don't, there’s a short article for you:
 [Using vim for writing code ](http://www.rosipov.com/blog/using-vim-for-writing-code/). Some basic understanding of git and branching is required as well, obviously.
 
-_Git config_  
+__Git config__  
 
 Prior to doing anything, you need to know how to set vimdiff as a git mergetool. That being said:  
 ```
@@ -21,7 +21,7 @@ git config mergetool.prompt false
 This will set git as the default merge tool, will display a common ancestor while merging, and will disable the
 prompt to open the vimdiff.
 
-_Creating merge conflict_
+__Creating merge conflict__  
 
 Let’s create a test situation. You are free to skip this part or you can work along with the tutorial.
 ```
