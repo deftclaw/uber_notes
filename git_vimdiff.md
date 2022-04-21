@@ -103,3 +103,4 @@ This gets the corresponding change from REMOTE and puts it in MERGED file. You c
 Save the file and quit (a fast way to write and quit multiple files is `:wqa` ).
 
 Run `git commit` and you are all set!
+## <a id='TestAnchor'></a>Test MarkDown Anchors
