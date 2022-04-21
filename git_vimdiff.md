@@ -1,7 +1,7 @@
 4/7/22,12:10 PM Use vimdiff as git mergetool - Ruslan Osipov
 
 # Use vimdiff as git mergetool
-
+Link to the [anchor](#TestAnchor)
 Using vimdiff as a git mergetool can be pretty confusing - multiple windows and little explanation. This is a short
 tutorial which explains basic usage, and what the LOCAL, BASE, and REMOTE keywords mean. This implies that
 you have at least a little bit of basic vim knowledge (how to move, save, and switch between split windows). If
